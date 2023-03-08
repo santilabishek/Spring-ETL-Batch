@@ -5,6 +5,6 @@ import org.springframework.stereotype.Repository;
 import spring.etl.batch.model.Sample;
 
 @Repository
-public interface SampleRepository extends JpaRepository<Sample, Integer>{
+public interface SampleRepository extends JpaRepository<Sample, Integer> {
 
 }

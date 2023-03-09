@@ -16,7 +16,6 @@
 //@Configuration
 //public class SpringConfiguration {
 //
-////	public static String filePath = "";
 //
 //	@Bean
 //	public FlatFileItemReader<?> reader(Resource inputFile) {
